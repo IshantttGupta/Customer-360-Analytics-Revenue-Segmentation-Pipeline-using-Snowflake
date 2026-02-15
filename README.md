@@ -22,9 +22,3 @@ This repository demonstrates a layered Data Warehouse pattern (RAW â†’ STAGING â
 - Snowflake
 - SQL
 - Snowpark (Python)
-
-## Notes
-- Never commit credentials. Use environment variables or a secrets manager for Snowflake connection configuration.
-
-## Contact
-- Maintainer: Add your contact info here.
